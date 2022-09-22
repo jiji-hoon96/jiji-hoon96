@@ -18,6 +18,9 @@
     노력하는 이지훈이 되겠습니다
 
 <br/>
+
+### 이지훈의 개발노트
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjihoondev.notion.site%2Fjihoondev%2F75462941d48b4f8c853886b6ea2d8e2e&count_bg=%233D5BC8&title_bg=%23555555&icon=notion.svg&icon_color=%23FFFFFF&title=Jihoon%27s+Notion+Blog&edge_flat=false)](https://hits.seeyoufarm.com)
     
 ## 💻 Tech Stacks 💻
     
