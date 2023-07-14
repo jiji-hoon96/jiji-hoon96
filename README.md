@@ -9,18 +9,8 @@
 
 ### ⭐ Front-End Developer ⭐
 
-    😊안녕하세요!!😊
-    Front End Develop 이지훈입니다!
-    개발 공부를 시작한 지 오랜 시간은 안되었지만
-    저는 개발하는 것이 너무너무 재미있습니다 😃😃
-    앞으로 저는 끊임없이 배우고 사용하며
-    오늘보다 내일이 더 기대되는 개발자가 되기 위해
-    노력하는 이지훈이 되겠습니다
-
-<br/>
-
 ### 이지훈의 개발노트
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjihoondev.notion.site%2Fjihoondev%2F75462941d48b4f8c853886b6ea2d8e2e&count_bg=%233D5BC8&title_bg=%23555555&icon=notion.svg&icon_color=%23FFFFFF&title=Jihoon%27s+Notion+Blog&edge_flat=false)](https://jihoondev.notion.site/75462941d48b4f8c853886b6ea2d8e2e)
+[![Hits](https://hooninedev.com/)
     
 ## 💻 Tech Stacks 💻
     
@@ -50,9 +40,5 @@
 ="https://img.shields.io/badge/jihoon7705@gmail.com-yellow.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 
 <br/>
-
-## License
-
-❤️2022.02.07❤️
 
 </div>
